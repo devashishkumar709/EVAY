@@ -1,0 +1,6 @@
+module Pods_EVAY_EVAYTests {
+  umbrella header "Pods-EVAY-EVAYTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

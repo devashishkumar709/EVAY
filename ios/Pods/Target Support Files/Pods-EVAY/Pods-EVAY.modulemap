@@ -1,0 +1,6 @@
+module Pods_EVAY {
+  umbrella header "Pods-EVAY-umbrella.h"
+
+  export *
+  module * { export * }
+}
